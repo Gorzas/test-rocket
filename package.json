@@ -1,0 +1,17 @@
+{
+  "name": "alerta-temazo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "rocket start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rocket/cli": "^0.4.1",
+    "@rocket/launch": "^0.3.0"
+  }
+}

@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@rocket/cli": "^0.4.1",
-    "@rocket/launch": "^0.3.0"
+    "@rocket/cli": "^0.5.2",
+    "@rocket/launch": "^0.4.0"
   }
 }
